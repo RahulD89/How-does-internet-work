@@ -1,0 +1,7 @@
+Introduction to HTTP and HTTPS
+HTTP - Hypertext transfet protocol is used to transfer data between client and server
+
+HTTPS:Hypertext transfet protocolSecure  =>
+ is a more secure version of HTTP which encrypts the data using SSL/TLS (Secure Socket Layer / Transport Layer Security) encryption. This provides an additional layer of security.
+
+When you visit a website that uses HTTPS, your web browser will display a padlock icon in the address bar, indicating the connection is secure.You may also see the letters " https" at the beginning of the website address, rather than "http".

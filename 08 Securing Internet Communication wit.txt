@@ -1,0 +1,9 @@
+Securing Internet Communication with SSL/TLS
+
+SSL / TLC certificates are used to estabilish trust between client and server
+
+
+Handshake : client and server exchange information to negoitiate the encryption algorithm
+
+Encryption: Once the secure connection is established between client and server data is encrypted using the agreed upon algoeithm and can be transmitted securely between the client and server.
+

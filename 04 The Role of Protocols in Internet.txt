@@ -1,0 +1,13 @@
+The Role of Protocols in Internet
+Protocals play a critical role in enabling communication and data exchange over the internet .
+IP => Internet Protocal
+TCP => Transmission Control Protocal 
+DNS => Domain Name System
+UDP => User Datagram Protocal
+
+
+IP is responsible for routing packets of data to their correct destination, while TCP & UDP ensure that packets are transmitted relaibly and effciently 
+DNS is used to translate domain names into IP addressess, and HTTP is used to transfer data between clients and servers.
+
+One of the key benefits of using standardized protocols os that they allow devices and system from different manufacturers and vendors to communicate with each other seamlessly . for example a browser is developed by one compamny can communicate with a web browser developed by another company,as long as they both adhere to the HTTP protocol.
+

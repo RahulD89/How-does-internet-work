@@ -1,0 +1,5 @@
+Before we learn what the Internet is, we need to understand what a Network is. A network is a group of computers or other devices which are connected to eachother. For example, you at your home might have a network of computers and devices. Your friend living next door might have a similar network of devices. Their neighbor might have a similar network of devices. All these networks when connected together form the internet.
+
+The internet was developed in the late 1960s by the United States Department of Defense as a means of creating a decentralized communication network that could withstand a nuclear attack. Over the years, it has evolved into a complex and sophisticated network that spans the globe.
+
+Today, the internet is an essential part of modern life, used by billions of people around the world to access information, communicate with friends and family, conduct business, and much more. As a developer, it is essential to have a solid understanding of how the internet works and the various technologies and protocols that underpin it.

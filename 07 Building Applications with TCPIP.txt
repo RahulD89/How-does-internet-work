@@ -1,0 +1,12 @@
+Building Applications with TCP/IP
+
+Transmission Control Protocal/Internet Protocal is underlying communication protocol used by most internet -based applications and services. it provides a relaible,ordered and error -checked delivery of data between apllications running on different devices.
+when building applications with TCP?IP there are few concepts to understand :
+
+Ports:
+Ports are used to understand the application or service running on a device. each application or service running on a device, each application or service is assigned a unique port number, allowinh data to be sent to the correct destination.
+
+Sockets: 
+combination of port number and ip address representing end of specific point of time, sockets are used to establish connections between devices and transfer data between applications.
+
+SMTP : Simple Mail Transfer Protocal

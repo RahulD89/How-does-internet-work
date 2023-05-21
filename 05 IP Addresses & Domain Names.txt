@@ -1,0 +1,8 @@
+IP Addresses & Domain Names
+ IP addresses and domain names are both important concepts to understand when working with the internet.
+
+An IP adresses is a unique identifier assigned to each device on a network. its used to route data to the correct destination, ensuring that information is sent to the intended recpient. IP addresses are typically represented as a series of four numbers separated by peroids,such as "192.168.1.1".
+
+Domain Names, on the other hand, are human -readable names used to identify websites and other internet resources. They`re typically composed of two or more parts,separated by peroids. For example, "google.com" is domain name. Domain names are translated into IP addresses using the Domain name system (DNS).
+DNS is a critical part od the internet infrastructure,responsible for translating domain names into IP addresses. When you enter a domain name into your web browser, your computer send a DNS enquiry to a DNS Server , which returns the corresponding IP address. Ypur computer uses that IP address to connect to the website or other resource youve requested.
+
